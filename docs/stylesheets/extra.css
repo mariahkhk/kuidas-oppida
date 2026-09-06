@@ -1,0 +1,37 @@
+/* Minimaalne majastiil. Kui tahad täpselt sama välimuse kui av_alused/ssl,
+   asenda see fail nende docs/stylesheets/extra.css sisuga. */
+
+:root {
+  --md-primary-fg-color: #5e35b1;      /* deep purple */
+  --md-accent-fg-color: #ff9100;       /* warm amber */
+}
+
+/* Tabeli päis lillaks */
+.md-typeset table:not([class]) th {
+  background-color: #ede7f6;
+  color: #4527a0;
+  font-weight: 600;
+}
+
+/* ASCII-skeemide ja mermaidi ümber pisut õhku */
+.md-typeset pre > code {
+  line-height: 1.45;
+}
+
+/* YouTube video previews (responsive 16:9) */
+.video-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 0.8rem 0 1.6rem;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 0.5px solid #d1c4e9;
+}
+.video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}

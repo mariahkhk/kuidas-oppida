@@ -1,0 +1,60 @@
+site_name: Kuidas õppida
+site_description: Lühike visuaalne juhend õppimisest kutseõppe noortele
+# site_url: https://<org>.github.io/kuidas-oppida/   # täida pärast repo loomist
+
+theme:
+  name: material
+  language: et
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Tume režiim
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Hele režiim
+  features:
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: et
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - toc:
+      permalink: false
+
+nav:
+  - Avaleht: index.md
+  - Kuidas õppida: kuidas-oppida.md
+  - Praktilised nipid: praktilised-nipid.md
+  - Kuidas konspekteerida: konspekteerimine.md
+  - Tööriistad: tooriistad.md
+  - Töövihik: toovihik.md
+  - Allikad ja videod: allikad.md

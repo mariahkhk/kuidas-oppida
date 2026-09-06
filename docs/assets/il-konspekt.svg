@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 220" role="img" aria-label="Avatud vihik ja pliiats">
+  <rect x="0" y="0" width="680" height="220" rx="16" fill="#ede7f6"/>
+  <rect x="200" y="58" width="122" height="112" rx="6" fill="#ffffff" stroke="#7e57c2" stroke-width="2"/>
+  <rect x="330" y="58" width="122" height="112" rx="6" fill="#ffffff" stroke="#7e57c2" stroke-width="2"/>
+  <rect x="322" y="54" width="18" height="120" rx="3" fill="#5e35b1"/>
+  <g stroke="#b39ddb" stroke-width="3" stroke-linecap="round">
+    <line x1="216" y1="84" x2="306" y2="84"/>
+    <line x1="216" y1="104" x2="306" y2="104"/>
+    <line x1="216" y1="124" x2="306" y2="124"/>
+    <line x1="216" y1="144" x2="306" y2="144"/>
+    <line x1="346" y1="84" x2="436" y2="84"/>
+    <line x1="346" y1="104" x2="436" y2="104"/>
+    <line x1="346" y1="124" x2="436" y2="124"/>
+    <line x1="346" y1="144" x2="436" y2="144"/>
+  </g>
+  <line x1="452" y1="164" x2="516" y2="86" stroke="#ff9100" stroke-width="11" stroke-linecap="round"/>
+  <path d="M448,168 L462,158 L456,174 Z" fill="#5e35b1"/>
+</svg>
