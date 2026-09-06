@@ -5,7 +5,7 @@ tags:
 
 # Kuidas konspekteerida
 
-*Märkmete tegemine ei ole ümberkirjutamine — see on mõtlemine*
+*Märkmete tegemine ei ole ümberkirjutamine, vaid mõtlemine*
 
 <figure markdown="span">
   ![Avatud vihik ja pliiats](assets/il-konspekt.svg)
@@ -15,22 +15,21 @@ tags:
 
 ## Õpiväljundid
 
-Pärast seda oskad:
+Pärast selle materjali läbimist oskad:
 
-- selgitada, miks konspekt jääb paremini külge kui kuulamine
+- selgitada, miks konspekteerimine kinnistab teadmise paremini kui pelk kuulamine
 - valida endale sobiva märkmemeetodi
-- teha märkmeid **oma sõnadega**, mitte sõna-sõnalt maha
+- teha märkmeid oma sõnadega, mitte sõna-sõnalt ümber kirjutades
 
 ---
 
-## Miks üldse konspekteerida?
+## Miks konspekteerida
 
-> **Miks see oluline on?**
-> Kui sa ainult kuulad või loed, on aju passiivses režiimis — info voolab sisse ja kohe välja. Konspekt sunnib aju **tööle**.
+Kui üksnes kuulad või loed, on aju passiivses seisundis ja info kaob sama kiiresti, kui tuli. Konspekteerimine sunnib aju infot aktiivselt töötlema.
 
-Kolm kasu: sa ehitad endale isikliku teadmiste baasi, mille juurde saad hiljem tagasi tulla; info jääb tunduvalt paremini meelde; ja aju läheb passiivsest neelamisest üle aktiivsele töötlemisele — sa analüüsid, struktureerid ja mõtestad.
+Sellel on kolm kasu: sa lood endale isikliku teadmiste kogu, mille juurde saad hiljem naasta; info jääb märksa paremini meelde; ja aju liigub passiivselt vastuvõtmiselt aktiivsele töötlusele — sa analüüsid, struktureerid ja mõtestad materjali.
 
-See seob otsa Loeng 0-ga: **oma sõnadega ümber sõnastamine on aktiivne meenutamine**. Sõna-sõnalt maha kirjutades sa ei õpi — sa oled koopiamasin.
+See seostub eelmise teemaga: **oma sõnadega ümbersõnastamine on aktiivne meenutamine**. Sõna-sõnalt ümberkirjutamine ei ole õppimine.
 
 ---
 
@@ -38,7 +37,7 @@ See seob otsa Loeng 0-ga: **oma sõnadega ümber sõnastamine on aktiivne meenut
 
 ### 1. Cornelli meetod
 
-Jaga leht kolmeks: kitsas veerg vasakul (märksõnad ja küsimused), lai veerg paremal (põhikonspekt), riba all (kokkuvõte oma sõnadega).
+Jaga leht kolmeks: kitsas veerg vasakul (märksõnad ja küsimused), lai veerg paremal (põhikonspekt) ja riba all (kokkuvõte oma sõnadega).
 
 ```
 ┌────────────┬────────────────────────────┐
@@ -52,11 +51,11 @@ Jaga leht kolmeks: kitsas veerg vasakul (märksõnad ja küsimused), lai veerg p
 │ KOKKUVÕTE: 2–3 lauset OMA sõnadega       │
 └──────────────────────────────────────────┘
 ```
-*Pilt: Cornelli leht — vasak veerg ja kokkuvõte täidad hiljem, ja seegi on juba kordamine*
+*Pilt: Cornelli leht — vasaku veeru ja kokkuvõtte täidad hiljem, mis ühtlasi on juba kordamine*
 
 ### 2. Skeemimeetod (outline)
 
-Üks suur nummerdatud/taandega nimekiri: teema → alateema → tees. Kiire ja loomulik käsurea- ja koodiinimesele.
+Üks nummerdatud või taandega nimekiri: teema → alateema → tees. Kiire ja loomulik neile, kes on harjunud käsurea või koodi struktuuriga.
 
 ```
 • Teema
@@ -68,9 +67,9 @@ Jaga leht kolmeks: kitsas veerg vasakul (märksõnad ja küsimused), lai veerg p
       • ...
 ```
 
-### 3. Mõttekaart (mind map)
+### 3. Mõttekaart
 
-Keskel põhiidee, sellest hargnevad harud. Hea ajurünnakuks ja seoste nägemiseks.
+Keskel põhiidee, millest hargnevad harud. Sobib ideede kogumiseks ja seoste nägemiseks.
 
 ```mermaid
 graph LR
@@ -80,26 +79,25 @@ graph LR
   A --> A2[tees]
   B --> B1[tees]
 ```
-*Pilt: mõttekaart — üks juur, harud seostega*
+*Pilt: mõttekaart — üks juur ja seostatud harud*
 
 ### 4. Lausemeetod
 
-Iga uus mõte uuele reale ja nummerda. Kui mõte seostub varasemaga, kirjuta juurde number (nt "vt 1"). Nii tekivad seosed ka lineaarses konspektis.
+Iga uus mõte algab uuel real ja on nummerdatud. Kui mõte seostub varasemaga, lisa viide (nt "vt 1"). Nii tekivad seosed ka lineaarses konspektis.
 
 ### 5. Voomeetod (flow)
 
-Kõige vabam: kuluta materjali mahakirjutamisele **minimaalselt** aega, mõtle ise kaasa ja pane kirja oma kommentaarid ja ideed. Tulemus võib olla skeem, laused, mõttekaart — või kõik korraga.
+Kõige vabam meetod: kuluta materjali ümberkirjutamisele võimalikult vähe aega, mõtle ise kaasa ning pane kirja omaenda kommentaarid ja ideed. Tulemuseks võib olla skeem, laused, mõttekaart või nende kombinatsioon.
 
 ---
 
-## Kaks nippi kõigile
+## Kaks üldist soovitust
 
-- Kasuta **erinevaid värve** — aitab hiljem õiget kohta leida.
-- Kasuta **ühesuguseid lühendeid** läbi kogu konspekti.
+- Kasuta erinevaid värve — see aitab hiljem vajaliku koha kiiresti üles leida.
+- Kasuta läbivalt samu lühendeid.
 
-### ✅ Kontrolli ennast
-Milline neist viiest meetodist sobiks sinu järgmisele tunnile?
+**Kontrolli ennast.** Milline neist viiest meetodist sobiks sinu järgmisele tunnile?
 
 ---
 
-*Nüüd tead, kuidas märkmeid teha. Vali tööriistad → [Tööriistad](tooriistad.md)*
+*Nüüd tead, kuidas märkmeid teha. Vali sobivad vahendid → [Tööriistad](tooriistad.md)*

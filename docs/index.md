@@ -9,24 +9,23 @@ tags:
   ![Õpivõrgustik: seotud sõlmed](assets/hero-oppimine.svg)
 </figure>
 
-Enne kui hakkame käske, tööriistu ja mõisteid õppima, teeme selgeks kõige tähtsama tööriista — **sinu enda õppimise**.
+Enne kui asume õppima käske, tööriistu ja mõisteid, vaatame üle ühe olulise aluse: kuidas õppida tõhusalt.
 
-See on lühike, visuaalne juhend: miks aju käitub nii nagu ta käitub, ja mida sa saad teha, et õppimine läheks kergemini ja jääks paremini külge.
+See lühike visuaalne juhend aitab mõista, kuidas aju uut infot töötleb, miks mõned õppimisviisid toetavad teadmiste kinnistumist paremini ning milliseid praktilisi võtteid saad kasutada, et õppimine oleks lihtsam ja tulemuslikum.
 
 !!! abstract "Mida sa siit saad"
-    - tead, **miks** sa õpid (su suur idee)
-    - saad aru, et ebamugavus alguses on normaalne
-    - tunned ära oma õpistiili
-    - kasutad kolme võtet, kuidas aju päriselt õpib
-    - sead oma keskkonna nii, et see töötab sinu kasuks
+    - arusaama, miks sa õpid ja miks õppimise alguse ebamugavus on ootuspärane
+    - ülevaate, kuidas aju õppimise ajal töötab — meenutamine, jaotatud kordamine, jõukohane raskus
+    - konkreetsed märkme- ja keskendumisvõtted
+    - prinditava töövihiku eesmärkide seadmiseks ja refleksiooniks
 
-## Mis siin on
+## Sisu
 
-1. **[Kuidas õppida](kuidas-oppida.md)** — miks aju käitub nii nagu ta käitub, ja viis põhitõde
-2. **[Praktilised nipid](praktilised-nipid.md)** — mida teha, kui istud maha õppima
+1. **[Kuidas õppida](kuidas-oppida.md)** — kuidas aju õpib ja viis põhimõtet
+2. **[Praktilised nipid](praktilised-nipid.md)** — mida teha, kui istud õppima
 3. **[Kuidas konspekteerida](konspekteerimine.md)** — viis märkmemeetodit, millest üks sobib sulle
-4. **[Tööriistad](tooriistad.md)** — varustus, mis teeb selle lihtsamaks
-5. **[Töövihik](toovihik.md)** — täida enne, kui alustad, ja peegelda pärast
-6. **[Allikad ja videod](allikad.md)** — uuringud ja videod, mis kõige selle taga on
+4. **[Tööriistad](tooriistad.md)** — vahendid, mis teevad planeerimise ja keskendumise lihtsamaks
+5. **[Töövihik](toovihik.md)** — täidad enne alustamist ja täiendad refleksiooniga
+6. **[Allikad ja videod](allikad.md)** — uuringud ja videod, millel materjal põhineb
 
 [Alusta lugemist →](kuidas-oppida.md){ .md-button .md-button--primary }

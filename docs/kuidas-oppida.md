@@ -3,9 +3,9 @@ tags:
   - Õpioskused
 ---
 
-# Loeng 0 — Kuidas õppida
+# Kuidas õppida
 
-*Lühike visuaalne juhend: kuidas kutsekooli aastad enda kasuks pöörata*
+*Kuidas aju uut infot töötleb ja kuidas seda enda kasuks pöörata*
 
 <figure markdown="span">
   ![Õppija ja idee](assets/il-oppimine.svg)
@@ -15,57 +15,51 @@ tags:
 
 ## Õpiväljundid
 
-Pärast seda oskad:
+Pärast selle materjali läbimist oskad:
 
-- nimetada oma **suure idee** — miks sa üldse õpid
-- selgitada, miks ebamugavus alguses on normaalne, mitte läbikukkumine
-- ära tunda oma õpistiili (Kolbi ring)
-- kasutada kolme võtet, kuidas aju päriselt õpib
-- seada oma keskkond nii, et õppimine läheb kergemini
-
----
-
-## 1. Kõigepealt: miks sa siin oled?
-
-> **Miks see oluline on?**
-> Motivatsioon ei ole nupp, mida vajutad ja hakkad õppima. Rasketel päevadel hoiab sind vee peal hoopis üks konkreetne põhjus — sinu **suur idee**.
-
-Keegi ei õpi selleks, et lihtsalt "programm läbida ja paber kätte saada". Iga õppimise taga on soov midagi muuta: saada amet, mis meeldib, teenida oma raha, teha asju, mille üle uhkust tunda.
-
-!!! question "Kirjuta üks lause vihikusse"
-    Kelleks sa tahad kahe aasta pärast saada? Mis see sulle annab?
-
-Kui aju hakkab virisema "ei viitsi", tuletad selle lause meelde. See on su ankur.
+- sõnastada, miks sa õpid, ja hoida seda eesmärki silme ees
+- selgitada, miks õppimise alguse ebamugavus on ootuspärane
+- tunda ära oma eelistatud õpiviisi, pidamata seda ainuvõimalikuks
+- kasutada kolme tõhusat õpivõtet
+- kujundada keskkonna, mis toetab keskendumist
 
 ---
 
-## 2. Ebamugavus on osa mängust
+## 1. Miks sa õpid
 
-> **Miks see oluline on?**
-> Uus kool, uus rühm, uus õpetaja, uus süsteem — su aju paneb muutustele vastu. Ärevus alguses ei tähenda, et sa oled vales kohas.
+Motivatsioon ei ole nupp, mille vajutamisel õppimine iseenesest käivitub. Rasketel hetkedel hoiab sind edasi liikumas pigem selge eesmärk kui hetkeline tahtmine.
 
-Esimestel nädalatel võib tunduda, et kõik teised saavad aru ja ainult sina mitte. Tegelikult mõtleb sedasama pool rühma. Reegel on lihtne: **karta tohib, teha ka.**
+Õppimise taga on tavaliselt soov midagi saavutada: omandada eriala, teenida oma sissetulek või teha tööd, mille üle tunned uhkust. Kui sõnastad selle eesmärgi enda jaoks, on hiljem lihtsam edasi minna ka siis, kui motivatsioon raugeb.
 
-Mida rohkem sa õpid, seda vähem sa õpetajat vajad. See on normaalne areng, mitte midagi kaugelt saavutamatut:
+!!! question "Pane kirja"
+    Kelleks tahad kahe aasta pärast saada ja mida see sulle annab?
+
+---
+
+## 2. Alguse ebamugavus on ootuspärane
+
+Uus kool, uus rühm, uus õpetaja ja uus töökorraldus panevad aju kohanema, ning mööduv ärevus õppimise alguses on täiesti tavaline. See ei tähenda, et oled vales kohas.
+
+Sageli tundub, et teised saavad kõigest aru ja ainult sina mitte. Tegelikult mõtleb sedasama suur osa rühmast.
+
+Mida rohkem sa õpid, seda iseseisvamaks muutud. Tegemist on loomuliku arenguga, mitte kaugelt saavutamatu eesmärgiga:
 
 ```
 Sõltuv  →  Huvitatud  →  Kaasatud  →  Iseseisev
 õpetaja                               sina juhid,
-juhib sammhaaval                      õpetaja aitab vajadusel
+juhib sammhaaval                      õpetaja toetab vajadusel
 ```
-*Pilt: alguses toetud õpetajale, lõpuks õpid ise — iseseisvus ongi eesmärk*
+*Pilt: alguses toetud õpetajale, lõpuks õpid iseseisvalt — iseseisvus on eesmärk*
 
-### ✅ Kontrolli ennast
-Millal viimati tundus miski hirmus, aga sa tegid ära ja said hakkama?
+**Kontrolli ennast.** Millal viimati tundus mõni ülesanne hirmutav, kuid said sellega hakkama?
 
 ---
 
-## 3. Igal kangelasel on oma tee
+## 3. Igal õppijal on oma tee
 
-> **Miks see oluline on?**
-> Ei ole üht õiget viisi õppida. Kui tead, kuidas *sina* kõige paremini õpid, lõpetad enda pideva võrdlemise teistega.
+Õppimiseks ei ole ühte ainuõiget viisi. Kui tead, kuidas ise kõige paremini õpid, ei pea end pidevalt teistega võrdlema.
 
-Õppimine käib ringina (David Kolbi mudel): teed kogemuse, mõtestad, seod teooriaga, proovid uuesti. Alustada võib igast punktist.
+Õppimist võib kirjeldada ringina (David Kolbi mudel): teed kogemuse, mõtestad seda, seod teooriaga ja proovid uuesti. Alustada võib ükskõik millisest punktist.
 
 ```mermaid
 graph LR
@@ -76,95 +70,80 @@ graph LR
 ```
 *Pilt: Kolbi õpiring — õppimine ei ole sirge joon, vaid ring*
 
-Enamik meist eelistab üht sisenemiskohta:
+Enamik õppijaid eelistab alustada ühest kindlast punktist:
 
-| Tüüp | Alustab sellest, et... |
-|------|------------------------|
-| **Aktivist** | hüppab kohe tegema, õpib katse-eksituse teel |
-| **Mõtleja** | vaatab enne pealt, mõtleb, siis teeb |
-| **Teoreetik** | loeb kõigepealt, kuidas asi töötab |
-| **Pragmaatik** | proovib kohe päris ülesande peal, kas töötab |
+| Tüüp | Eelistab alustada sellest, et... |
+|------|----------------------------------|
+| **Aktivist** | asub kohe tegema ja õpib katsetades |
+| **Mõtleja** | vaatleb esmalt kõrvalt, kaalub ja alles siis tegutseb |
+| **Teoreetik** | selgitab kõigepealt välja, kuidas asi toimib |
+| **Pragmaatik** | katsetab kohe päris ülesande peal, kas lahendus töötab |
 
-Ükski pole parem. Enamik on segu. Tunned end kellegi ära?
+Ükski neist ei ole parem kui teine ja enamik inimesi on nende segu.
 
-!!! warning "Oluline: õpistiil ei ole vabandus"
-    "Õpistiil" ütleb, kust sul on **mugav alustada** — mitte seda, et sa õpiksid ainult ühtviisi. Uuringud näitavad selgelt, et õpetuse sobitamine kellegi "stiiliga" (visuaal/audio/kinesteetik) tulemusi ei paranda; ka siinsed neli tüüpi on **enesetundmise tööriist, mitte täppisteadus**. Mis töötab kõigil ühtemoodi, on **meenutamine ja kordamine**. Vaata [Allikad](allikad.md).
+!!! warning "Õpistiil ei ole vabandus"
+    Eelistatud õpiviis näitab, kust on mugav alustada, mitte seda, et peaksid õppima ainult ühel viisil. Uuringute põhjal ei paranda õpetuse sobitamine kellegi "stiiliga" (visuaalne, auditiivne, kinesteetiline) õpitulemusi; ka siinsed neli tüüpi on pigem enesetundmise tööriist kui täppisteadus. Kõigil toimivad ühtviisi meenutamine ja kordamine. Vt [Allikad](allikad.md).
 
 ---
 
 ## 4. Kuidas aju päriselt õpib
 
-> **Miks see oluline on?**
-> Kolm võtet, mis säästavad tunde. Kõik kolm tunduvad ebamugavamad kui tavaline "loen konspekti üle" — ja just seepärast nad töötavad.
+Järgnevad kolm võtet säästavad õppimiseks kuluvat aega. Kõik kolm tunduvad ebamugavamad kui teksti korduv ülelugemine — ja just seetõttu need toimivad.
 
-**1. Meenuta, ära üleloe (active recall).** Kui loed sama teksti viiendat korda, tekib tunne "oskan" — aga see on tuttavuse pettus, mis eksamiks kaob. Meenutamine hoiab teadmise üleval.
+**1. Meenuta, ära üleloe (active recall).** Kui loed sama teksti mitmendat korda, tekib tunne, et oskad seda. See tunne on aga petlik ja kaob eksamiks. Enda testimine — materjali sulgemine ja mälust taastamine — kinnistab teadmise palju kindlamalt.
 
 <figure markdown="span">
   ![Unustamiskõver: ülelugemine vajub, meenutamine püsib](assets/unustamiskaar.svg)
-  <figcaption>Sama aeg, kaks meetodit — meenutamine hoiab teadmise üleval, ülelugemine laseb tal vajuda</figcaption>
+  <figcaption>Sama aeg, kaks meetodit — meenutamine hoiab teadmise üleval, ülelugemine laseb sel vajuda</figcaption>
 </figure>
 
-Sulge ekraan ja proovi käsk **peast**, alles siis vaata spikrist. Kui eksisid — hea, just seal oli auk.
+Proovi käsku esmalt peast ja alles seejärel kontrolli. Kui eksid, oledki leidnud koha, mis vajab kordamist.
 
-**2. Jaota ajas (spacing).** Neli korda 20 minutit üle nädala lööb iga kord ühte pikka õhtut. Iga kordamine ütleb ajule: *seda hoia alles.*
+**2. Jaota õppimine ajas (spacing).** Sama koguse aja jaotamine mitmele päevale annab parema tulemuse kui kõige tegemine ühe õhtuga. Iga kordamine annab ajule märku, et tegu on olulise infoga.
 
 <figure markdown="span">
   ![Sama õppeaeg ühel õhtul versus jaotatuna üle nädala](assets/jaotatud-oppimine.svg)
-  <figcaption>Sama aeg kokku — jaotatuna jääb see palju paremini meelde</figcaption>
+  <figcaption>Sama aeg kokku — jaotatuna jääb teadmine märksa paremini meelde</figcaption>
 </figure>
 
-**3. Raske = sa õpid.** Kui käib kergelt, siis kordad juba osatavat. Kodutööd tee nagu pilt laeb netis — **progressive JPEG**:
+**3. Jõukohane raskus tähendab õppimist.** Kui õppimine tundub liiga kerge, kordad tõenäoliselt juba teadaolevat. Kodutööd tehes alusta lihtsast toimivast lahendusest ja viimistle alles siis, kui aega jääb — sarnaselt pildile, mis laadides järk-järgult teravneb.
 
 <figure markdown="span">
   ![Progressiivne JPEG: jämedast lahendusest peene viimistluseni](assets/progressiivne-jpeg.svg)
-  <figcaption>Kõigepealt midagi, mis töötab; alles siis ilus. Ära jää esimese detaili taha kinni.</figcaption>
+  <figcaption>Kõigepealt toimiv põhi, seejärel viimistlus — ära jää esimese detaili taha kinni</figcaption>
 </figure>
 
-### ✅ Kontrolli ennast
-Millist kolmest sa täna veel EI kasuta?
+**Kontrolli ennast.** Millist neist kolmest võttest sa veel ei kasuta?
 
 ---
 
-## 5. Sea keskkond enda poolele
+## 5. Kujunda keskkond enda kasuks
 
-> **Miks see oluline on?**
-> Tahtejõud saab otsa. Keskkond ei saa. Lihtsam on ruum korra korda teha kui iga päev endaga võidelda.
+Tahtejõud ammendub, keskkond aga püsib. Lihtsam on korrastada ruum üks kord kui iga päev iseendaga võidelda.
 
-- **Steriilne kabiin.** Lennukis tohib startides rääkida ainult lennust. Tee endale õppimise ajaks sama: üks asi korraga, muu ootab.
-- **Telefon teise tuppa.** Nii kaugele, et selle järele peab püsti tõusma. Nähtav telefon sööb keskendumist isegi tummalt.
-- **Leia õpipaariline (bädi).** Kui seletad kaaslasele, saad ise paremini aru — seda nimetatakse peer-to-peer õppimiseks. Ja küsi julgelt: küsimus ei tee sind lolliks, vastuseta jäämine küll.
-- **Kodused liitlased.** Ütle kodus välja, mis kell sa õpid ja et siis sind ei segataks.
+- **Selge tööala.** Tegele õppimise ajal ühe asjaga korraga; ülejäänu ootab.
+- **Telefon eemale.** Pane see teise ruumi, nii et selleni jõudmiseks peaksid püsti tõusma. Nähtaval telefon vähendab keskendumist ka siis, kui sa seda ei puuduta.
+- **Õpipaariline.** Kaaslasele seletades saad ise materjalist paremini aru (nn peer-to-peer õppimine). Küsi julgelt — küsimata jäänud küsimus takistab rohkem kui küsitud.
+- **Toetav kodu.** Lepi lähedastega kokku, millal sa õpid ja et sind siis ei segataks.
 
-Meie moto: **teen koostööd, mitte ei võitle** — ei õpetaja, kaaslaste ega iseendaga.
-
-### ✅ Kontrolli ennast
-Mis on sinu suurim segaja? Kuidas teed selle järgmisel õppekorral raskemini kättesaadavaks?
+**Kontrolli ennast.** Mis on sinu suurim segaja ja kuidas muudad selle järgmisel korral raskemini kättesaadavaks?
 
 ---
 
-## 6. Kokkuvõte
+## Kokkuvõte
 
-### Kuidas õppida — ühe pilguga
+| Põhimõte | Tuum |
+|----------|------|
+| **Selge eesmärk** | tea, miks sa õpid |
+| **Alguse ebamugavus on normaalne** | ärevus möödub, kui edasi teed |
+| **Oma tee** | tunne oma eelistatud õpiviisi |
+| **Meenutamine** | sulge materjal ja taasta mälust |
+| **Jaotatud kordamine** | vähehaaval on parem kui üks õhtu |
+| **Jõukohane raskus** | alusta lihtsast toimivast lahendusest |
+| **Keskkond** | telefon eemale, õpipaariline kõrvale |
 
-| Võte | Tuum |
-|------|------|
-| **Suur idee** | tea, miks sa õpid |
-| **Ebamugavus = OK** | karta tohib, teha ka |
-| **Oma tee** | tunne oma õpistiili |
-| **Meenuta** | sulge materjal, tuleta ise |
-| **Jaota ajas** | vähehaaval > üks öö |
-| **Raske = õpin** | progressive JPEG |
-| **Keskkond** | telefon eemale, bädi kõrvale |
-
-### 🎯 Peegeldus (tee iga labori lõpus)
-
-Hinda ennast skaalal 1–5:
-
-1. Sain aru, mida ma täna tegin ja miks.
-2. Tean, mis jäi segaseks ja mida ma järgmisena küsin.
-
-Ja üks emotsioon: mis tundega sa täna lahkud?
+**Refleksioon (tee iga suurema teema või labori järel).** Hinda skaalal 1–5, kuivõrd said aru, mida ja miks tegid, ning pane kirja, mis jäi segaseks ja mida kavatsed järgmisena küsida.
 
 ---
 
-*Vali siit üks võte ja proovi seda kohe järgmises laboris — õppimist õpib ainult õppides. 🚀*
+*Vali üks võte ja rakenda seda juba järgmisel õppekorral — õppima õpib ainult õppides.*

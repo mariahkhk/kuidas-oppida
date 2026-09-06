@@ -5,7 +5,7 @@ tags:
 
 # Töövihik
 
-*Täida see enne, kui alustad — ja tule tagasi peegeldama*
+*Täida enne õppimise alustamist ja naase selle juurde refleksiooniks*
 
 <figure markdown="span">
   ![Kontroll-nimekiri lõikelaual](assets/il-toovihik.svg)
@@ -13,41 +13,40 @@ tags:
 
 ---
 
-> **Miks see oluline on?**
-> Kirjapandud eesmärk ja plaan hoiavad sind teel siis, kui motivatsioon otsa saab. Prindi see välja või kopeeri vihikusse ja täida oma sõnadega.
+Kirjapandud eesmärk ja plaan hoiavad sind teel siis, kui motivatsioon raugeb. Prindi see leht välja või kopeeri vihikusse ja täida oma sõnadega.
 
 ---
 
-## 1. Minu suur idee ja eesmärk
+## 1. Eesmärk
 
-Hea eesmärk on **SMART**: Konkreetne, Mõõdetav, Saavutatav, Asjakohane, Tähtajaline.
+Hea eesmärk on **SMART**: konkreetne, mõõdetav, saavutatav, asjakohane ja tähtajaline.
 
 | Küsimus | Minu vastus |
 |---------|-------------|
-| Kelleks tahan saada? Mis see mulle annab? | |
-| Mu eesmärk sel õppeaastal (SMART): | |
-| Kuidas ma tean, et sain hakkama? | |
+| Kelleks tahan saada ja mida see mulle annab? | |
+| Minu eesmärk sel õppeaastal (SMART): | |
+| Kuidas ma tean, et olen selle saavutanud? | |
 
 ---
 
-## 2. Minu õpistiil
+## 2. Minu eelistatud õpiviis
 
-Kiire test — kujuta ette, et pead ostma uue kõlari. Kuidas sa käitud?
+Kiire enesehinnang. Kujuta ette, et pead ostma uue kõlari. Kuidas sa toimid?
 
 | Kui sa... | ...siis oled pigem |
 |-----------|--------------------|
 | ostad kohe ja katsetad ise | **Aktivist** |
-| loed enne kõik arvustused läbi | **Mõtleja** |
-| uurid, kuidas kõlar üldse töötab | **Teoreetik** |
-| vaatad ainult, mis on uut ja kasulikku | **Pragmaatik** |
+| loed enne läbi arvustused | **Mõtleja** |
+| uurid, kuidas seade tegelikult töötab | **Teoreetik** |
+| vaatad ainult uusi ja kasulikke funktsioone | **Pragmaatik** |
 
-Enamik on segu. Loe tüüpidest lähemalt: [Kuidas õppida](kuidas-oppida.md).
+Enamik inimesi on nende segu. Loe tüüpidest lähemalt: [Kuidas õppida](kuidas-oppida.md).
 
-**Minu tüüp(id):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Minu eelistus:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ---
 
-## 3. Minu kuu plaan
+## 3. Kuu plaan
 
 | Nädal | Fookus | Kuidas tean, et sain hakkama |
 |-------|--------|------------------------------|
@@ -58,7 +57,7 @@ Enamik on segu. Loe tüüpidest lähemalt: [Kuidas õppida](kuidas-oppida.md).
 
 ---
 
-## 4. Minu takistused
+## 4. Takistused
 
 | Küsimus | Minu vastus |
 |---------|-------------|
@@ -67,16 +66,16 @@ Enamik on segu. Loe tüüpidest lähemalt: [Kuidas õppida](kuidas-oppida.md).
 
 ---
 
-## 5. Peegeldus: Mis? Miks? Ja mis siis?
+## 5. Refleksioon: mis, miks ja mis edasi
 
-Täida iga suurema teema või labori järel:
+Täida iga suurema teema või labori järel.
 
 | Küsimus | Minu vastus |
 |---------|-------------|
-| **Mis?** Mis juhtus, mida ma õppisin? | |
-| **Miks?** Miks nii, kuidas ma tegutsesin? | |
-| **Ja mis siis?** Kus ma seda kasutan, mida teen teisiti? | |
+| **Mis?** Mis juhtus ja mida ma õppisin? | |
+| **Miks?** Miks nii ja kuidas ma tegutsesin? | |
+| **Mis edasi?** Kus ma seda kasutan ja mida teen järgmisel korral teisiti? | |
 
 ---
 
-*Õppimine ei ole sprint, vaid maraton — tähtis on lõppu jõuda. Aga kui raske ka poleks, finiš on seda väärt.*
+*Õppimine ei ole sprint, vaid maraton. Oluline on lõpuni jõuda, ja kui raske ka poleks, tulemus on seda väärt.*

@@ -5,63 +5,58 @@ tags:
 
 # Tööriistad
 
-*Väike varustus, mis teeb plaani nähtavaks ja segajad raskeks*
+*Vahendid, mis teevad planeerimise nähtavaks ja segajad raskemini kättesaadavaks*
 
 ---
 
 ## Planeeri ja jälgi
 
-> **Miks see oluline on?**
-> Kui aeg on nähtav, ei pea sa iga kord otsustama "millal ma seda teen" — plaan otsustab su eest.
+Kui aeg on nähtav, ei pea sa iga kord otsustama, millal midagi teha — plaan teeb otsuse sinu eest.
 
-| Tööriist | Milleks |
-|----------|---------|
-| **Kalender** (nt Google Kalender) | pane sisse kõik — kool, trenn, kodutöö — ja näed, kus on päriselt vaba aega |
-| **Nädalaruudustik** | üks pilk, kus su aeg käib (vt allpool) |
-| **Ülesandeloend / kanban** | kolm veergu: Teha → Teen → Tehtud |
-| **Harjumuste jälgija** | linnuke iga päeva eest; kiida end ka väikese võidu puhul |
+| Vahend | Milleks |
+|--------|---------|
+| **Kalender** (nt Google Kalender) | pane sisse kõik — kool, trenn, kodutöö — ja näed, kus on tegelikult vaba aega |
+| **Nädalaruudustik** | annab ühe pilguga ülevaate, kuidas su aeg jaotub (vt allpool) |
+| **Ülesandeloend või kanban** | kolm veergu: teha → teen → tehtud |
+| **Harjumuste jälgija** | märgi iga tehtud päev ja tunnusta end ka väikeste edusammude eest |
 
-Nädalaruudustiku idee — joonista see korra ja täida:
+Nädalaruudustiku näidis — koosta see ühe korra ja täienda vajadusel:
 
 ```
 Kell    E      T      K      N      R
 8–15    kool   kool   kool   kool   kool
 16–18   trenn  —      trenn  —      —
-19–20   ÕPPE   ÕPPE   —      ÕPPE   vaba
+19–20   õpe    õpe    —      õpe    vaba
 ```
-*Pilt: kui näed nädalat korraga, näed ka, kuhu õppimine mahub*
+*Pilt: kui näed nädalat tervikuna, näed ka, kuhu õppimine mahub*
 
 ---
 
-## Keskenda ja kaitse
+## Keskendu ja kaitse tähelepanu
 
-> **Miks see oluline on?**
-> Tahtejõud saab otsa. Tööriist ei saa. Tee hea tegevus lihtsaks ja segav raskeks.
+Tahtejõud ammendub, vahend aga mitte. Muuda kasulik tegevus lihtsaks ja segav raskemini kättesaadavaks.
 
-- **Pomodoro-taimer** — 25 min fookust, 5 min paus.
-- **Saidiblokeerija** (nt Block Site) — sulge YouTube ja mängud õppimise ajaks.
-- **"Mitte segada" režiim** või telefon lihtsalt teise tuppa.
-- **Müravähendusega kõrvaklapid** või lihtsad kõrvatropid — lõikavad taustamüra ära.
+- **Pomodoro-taimer** — 25 minutit keskendumist, 5 minutit pausi.
+- **Saidiblokeerija** (nt Block Site) — sulge õppimise ajaks meelelahutuslehed.
+- **Režiim "Mitte segada"** või lihtsalt telefon teise ruumi.
+- **Müravähendusega kõrvaklapid** või kõrvatropid — vähendavad taustamüra.
 
 !!! tip "Fookusmuusika ja kõrvaklapid"
-    Keskendumise suurim vaenlane on **katkestus**: iga uus heli tõmbab tähelepanu ja pärast kulub aega uuesti süveneda. Seepärast:
+    Keskendumise suurim vaenlane on katkestus: iga uus heli tõmbab tähelepanu ja süvenemine algab otsast peale. Seepärast:
 
-    - **Müra maha.** Müravähendusega (noise-cancelling) kõrvaklapid või kõrvatropid lõikavad tausta ära. See üksi aitab sageli rohkem kui muusika ise.
-    - **Muusika ilma sõnadeta.** Kui muusika, siis instrumentaalne, lo-fi, ambient või ühtlane taust (white/brown noise). Laulusõnad võistlevad lugemise ja kirjutamisega — aju ei suuda korraga sõnu lugeda ja sõnu kuulata.
-    - **Test:** kui märkad, et laulad kaasa või vahetad lugusid, siis muusika segab, mitte ei aita — pane kinni.
-    - **Valmis taimer:** YouTube'is on "study with me" Pomodoro-taimereid pruunmüraga — pane käima ja õpi kaasa. Nt 50/10 formaat (50 min tööd, 10 min paus): <https://www.youtube.com/watch?v=KNzl1LYrHtw>
-    - See on individuaalne: mõnele sobib täisvaikus, mõnele ühtlane taust. Proovi mõlemat ja jää selle juurde, mis fookust päriselt hoiab.
+    - **Vähenda müra.** Müravähendusega kõrvaklapid või kõrvatropid vähendavad taustamüra. See aitab sageli rohkem kui muusika ise.
+    - **Muusika ilma sõnadeta.** Kui kuulad muusikat, eelista instrumentaalset, lo-fi, ambient- või ühtlast taustaheli (nt white või brown noise). Sõnad konkureerivad lugemise ja kirjutamisega — aju ei suuda korraga sõnu lugeda ja kuulata.
+    - **Lihtne kontroll.** Kui märkad, et laulad kaasa või vahetad lugusid, siis muusika pigem segab. Lülita see välja.
+    - **Valmis taimer.** YouTube'is on "study with me" tüüpi Pomodoro-taimereid taustaheliga, mille saab lihtsalt käima panna. Näiteks 50/10 formaat (50 minutit tööd, 10 minutit pausi): <https://www.youtube.com/watch?v=KNzl1LYrHtw>
+    - **See on individuaalne.** Mõnele sobib täielik vaikus, teisele ühtlane taust. Katseta mõlemat ja jää selle juurde, mis tegelikult keskendumist toetab.
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/KNzl1LYrHtw" title="50/10 Pomodoro-taimer pruunmüraga" loading="lazy" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/KNzl1LYrHtw" title="50/10 Pomodoro-taimer taustaheliga" loading="lazy" allowfullscreen></iframe></div>
 
 ---
 
 ## Raamatud ja videod
 
-> **Miks see oluline on?**
-> Sa ei ole esimene, kes õpib õppima. Mõni raamat ja video säästavad sulle aastaid katsetamist.
-
-Uuringud, videod ja raamatud on koos eraldi lehel: **[Allikad ja videod](allikad.md)**.
+Sa ei ole esimene, kes õpib õppima. Mõned raamatud ja videod säästavad palju katsetamisaega. Uuringud, videod ja raamatud on koos eraldi lehel: **[Allikad ja videod](allikad.md)**.
 
 ---
 
@@ -69,12 +64,12 @@ Uuringud, videod ja raamatud on koos eraldi lehel: **[Allikad ja videod](allikad
 
 | Kui... | ...siis proovi |
 |--------|----------------|
-| ei suuda alustada | tükelda esimeseks 5-min sammuks |
-| oled tühi | päris puhkus, mitte kerimine |
-| hüppad asjade vahel | üks asi + Pomodoro |
-| pea täis muresid | kirjuta kõik paberile |
-| kardad eksida | mängi nagu mängus — katse loeb |
+| ei suuda alustada | jaga ülesanne kõige väiksemaks esimeseks sammuks |
+| oled väsinud | tegelik puhkus, mitte kerimine |
+| liigud asjade vahel | üks asi korraga ja Pomodoro |
+| pea on muresid täis | kirjuta need paberile |
+| kardad eksida | suhtu vigadesse õppimise osana |
 
 ---
 
-*Tagasi algusesse: [Kuidas õppida](kuidas-oppida.md). Vali üks asi ja proovi seda juba täna. 🚀*
+*Tagasi algusesse: [Kuidas õppida](kuidas-oppida.md). Vali üks võte ja rakenda seda juba täna.*

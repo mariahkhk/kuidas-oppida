@@ -5,59 +5,59 @@ tags:
 
 # Allikad ja videod
 
-*See juhend ei ole kellegi arvamus — selle taga on aastakümnete uuringud*
+*See materjal ei põhine arvamusel, vaid aastakümnete uuringutel*
 
 ---
 
 ## Mida teadus ütleb
 
-Kõik selle saidi põhitõed tulevad õppeteadusest, mitte "kõlab loogiliselt" tunnetusest:
+Kõik selle materjali põhiväited tulevad õppimisuuringutest, mitte üldisest tunnetusest:
 
-- **Meenutamine lööb ülelugemise.** Kui sulged materjali ja tuletad ise meelde, jääb see palju paremini külge kui uuesti lugedes. Ühes klassikalises katses mäletas meenutav rühm nädala pärast umbes 61%, ülelugejad 40%.[^testimine]
-- **Jaota õppimine ajas.** Sama aeg mitmele päevale jaotatuna annab kordades parema tulemuse kui üks pikk õhtu.[^jaotus]
-- **Kõige tõhusamad võtted** on suure ülevaate järgi just **praktikatestid** (enda testimine) ja **jaotatud õppimine**; kõige nõrgemad on ülelugemine ja markeerimine — täpselt need, mida enamik õpilasi eelistab.[^dunlosky]
-- **"Õpistiilid" on müüt.** Idee, et sind peaks õpetama sinu "stiilis" (visuaal/audio/kinesteetik), on korduvalt ümber lükatud — see ei paranda tulemusi. Sinu tüüp ütleb, kust on mugav alustada, mitte kuidas ainsana õppida.[^stiilid]
-- **Multitasking maksab.** Ülesannete vahel hüppamine aeglustab ja teeb vigu; sülearvutiga tunnis "multitaskiv" õpilane saab halvemini aru — ja häirib ka pinginaabrit.[^multitasking]
-- **Uni kinnistab õpitu.** Une kvaliteet, pikkus ja regulaarsus on seotud parema õppeedukusega. Läbi öö tuupimine töötab vastu.[^uni]
+- **Meenutamine on tõhusam kui ülelugemine.** Kui sulged materjali ja taastad selle mälust, jääb see paremini külge kui korduval lugemisel. Ühes klassikalises katses meenutas testinud rühm nädala pärast umbes 61%, korduvalt lugenud rühm 40%.[^testimine]
+- **Jaotatud õppimine annab parema tulemuse.** Sama koguse aja jaotamine mitmele päevale on tõhusam kui kõige tegemine ühe õhtuga.[^jaotus]
+- **Tõhusaimad võtted** on suurte ülevaadete põhjal enda testimine (praktikatestid) ja jaotatud õppimine; kõige nõrgemad on ülelugemine ja markeerimine — ehkki just neid õpilased sageli eelistavad.[^dunlosky]
+- **Õpistiilide teooria ei leia kinnitust.** Väide, et õppija saab paremaid tulemusi, kui õpetust kohandatakse tema "stiiliga" (visuaalne, auditiivne, kinesteetiline), on korduvalt ümber lükatud. Eelistatud õpiviis näitab, kust on mugav alustada, mitte ainsat toimivat teed.[^stiilid]
+- **Tähelepanu jagamine on kulukas.** Ülesannete vahel liikumine aeglustab tööd ja suurendab vigade arvu; sülearvutiga tunnis tähelepanu jagav õpilane mõistab materjali halvemini ja häirib ka kõrvalistujat.[^multitasking]
+- **Uni kinnistab õpitu.** Une kvaliteet, pikkus ja regulaarsus on seotud parema õppeedukusega. Öö läbi õppimine töötab vastupidiselt.[^uni]
 
-Need on **algallikad** — eelretsenseeritud teadus. Kui midagi väidad, viita siia, mitte YouTube'ile.
+Need on algallikad — eelretsenseeritud teadus. Väiteid tasub põhjendada just nende, mitte populaarsete videote põhjal.
 
 ---
 
 ## Videod
 
-!!! info "Mis need videod on — ja mis mitte"
-    Allolevad videod on **ligipääsetavad populaarteaduslikud sissejuhatused**, mitte algallikad. Head ja korralikult tehtud (Kurzgesagt paneb allikad kirja, Oakley ja Veritasium viitavad uuringutele), aga tõendus on ülal jaotises *Mida teadus ütleb*. Video on hea koht **alustada**, mitte lõpetada. Inglise keeles, subtiitritega.
+!!! info "Mis need videod on ja mis mitte"
+    Allolevad videod on ligipääsetavad populaarteaduslikud sissejuhatused, mitte algallikad. Need on korralikult tehtud (Kurzgesagt viitab allikatele, Oakley ja Veritasium toetuvad uuringutele), kuid tõendus asub jaotises *Mida teadus ütleb*. Video on hea koht alustada, mitte lõpetada. Videod on ingliskeelsed, subtiitritega.
 
 **Kurzgesagt — "How Are Memories Stored Inside Your Brain?"**
-Animeeritud (2026) selgitus, kuidas aju mälestusi salvestab ja miks need iga meenutamisega pisut muutuvad — hea taust sellele, *miks* meenutamine mälu üldse tugevdab.
+Animeeritud selgitus (2026) sellest, kuidas aju mälestusi salvestab ja miks need iga meenutamisega pisut muutuvad. Hea taust mõistmaks, miks meenutamine mälu tugevdab.
 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/PqtggjVAi8M" title="Kurzgesagt — How Are Memories Stored Inside Your Brain?" loading="lazy" allowfullscreen></iframe></div>
 
 **Barbara Oakley — "Learning How to Learn" (TEDx)**
-Fookus- ja hajusrežiim, prokrastinatsioon, Pomodoro. Parim sissejuhatus.
+Fookus- ja hajusrežiim, prokrastinatsioon ning Pomodoro-tehnika. Hea sissejuhatus teemasse.
 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/O96fE1E-rf8" title="Barbara Oakley — Learning How to Learn (TEDx)" loading="lazy" allowfullscreen></iframe></div>
 
 **Ali Abdaal — "How to study for exams: Evidence-based revision tips"**
-Aktiivne meenutamine ja jaotatud kordamine, konkreetsed võtted.
+Aktiivne meenutamine ja jaotatud kordamine koos konkreetsete võtetega.
 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ukLnPbIffxE" title="Ali Abdaal — Evidence-based revision tips" loading="lazy" allowfullscreen></iframe></div>
 
 **Veritasium — "The 4 things it takes to be an expert"**
-Miks pelgalt "10 000 tundi" ei piisa: sihipärane harjutamine, kohene tagasiside, mustrituvastus (chunking). Seob otsa "raske = sa õpid" mõttega.
+Miks pelgalt "10 000 tundi" ei piisa: sihipärane harjutamine, kohene tagasiside ja mustrituvastus. Seostub põhimõttega, et jõukohane raskus tähendab õppimist.
 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/5eW6Eagr9XA" title="Veritasium — The 4 things it takes to be an expert" loading="lazy" allowfullscreen></iframe></div>
 
-**Coursera — "Learning How to Learn"** (Barbara Oakley & Terrence Sejnowski). Tasuta kursus, maailma üks vaadatuim; subtiitrid ka eesti keeles. Otsi Courserast nime järgi.
+**Coursera — "Learning How to Learn"** (Barbara Oakley ja Terrence Sejnowski). Tasuta veebikursus, üks maailma vaadatuimaid; saadaval ka eestikeelsete subtiitritega. Otsi Courserast pealkirja järgi.
 
 ---
 
 ## Raamatud
 
-- **Barbara Oakley — "A Mind for Numbers"** — sama, mis kursus, raamatuna.
-- **Brown, Roediger & McDaniel — "Make It Stick"** — testimise ja kordamise teadus, ladusalt.
-- **James Clear — "Aatomharjumused"** (eesti keeles) — kuidas väikestest sammudest harjumus ehitada.
+- **Barbara Oakley — "A Mind for Numbers"** — sama sisu mis kursusel, raamatuna.
+- **Brown, Roediger ja McDaniel — "Make It Stick"** — testimise ja kordamise teadus arusaadavas vormis.
+- **James Clear — "Aatomharjumused"** (eesti keeles) — kuidas väikestest sammudest harjumusi kujundada.
 
 ---
 
@@ -65,5 +65,5 @@ Miks pelgalt "10 000 tundi" ei piisa: sihipärane harjutamine, kohene tagasiside
 [^jaotus]: Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380.
 [^dunlosky]: Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. Ülevaade õpetajale: <https://www.aft.org/ae/fall2013/dunlosky>
 [^stiilid]: Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. *Psychological Science in the Public Interest, 9*(3), 105–119. Ülevaade: <https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say>
-[^multitasking]: Sana, F., Weston, T., & Cepeda, N. J. (2013). Laptop multitasking hinders classroom learning for both users and nearby peers. *Computers & Education, 62*, 24–31. Ülelülituse hinnast: <https://www.apa.org/topics/research/multitasking>
+[^multitasking]: Sana, F., Weston, T., & Cepeda, N. J. (2013). Laptop multitasking hinders classroom learning for both users and nearby peers. *Computers & Education, 62*, 24–31. Vt ka: <https://www.apa.org/topics/research/multitasking>
 [^uni]: Okano, K., Kaczmarzyk, J. R., Dave, N., Gabrieli, J. D. E., & Grossman, J. C. (2019). Sleep quality, duration, and consistency are associated with better academic performance. *npj Science of Learning, 4*, 16. <https://www.nature.com/articles/s41539-019-0055-z>

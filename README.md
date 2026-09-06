@@ -1,6 +1,6 @@
 # Kuidas õppida
 
-Väike õpioskuste juhend kutseõppe noortele (umbes 16–19). Enne kui hakkame käske, tööriistu ja mõisteid õppima, teeme selgeks kõige tähtsama tööriista — **õpilase enda õppimise**.
+Väike õpioskuste juhend kutseõppijatele. Enne kui asume käske, tööriistu ja mõisteid õppima, teeme selgeks kõige tähtsama tööriista — **õppija enda õppimise**.
 
 ## Mis see on
 
